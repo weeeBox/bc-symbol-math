@@ -1,3 +1,4 @@
+package bc.math.symbol;
 import bc.utils.code.ListWriteDestination;
 
 public class Matrix
